@@ -1,4 +1,4 @@
-Github Basics
+**Github Basics**
 -------------
 
 GIthub practice based on lynda course.
