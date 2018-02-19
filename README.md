@@ -2,7 +2,7 @@ Github Basics
 -------------
 
 GIthub practice based on lynda course.
-https://github.com 
+Based on [Lynda.com](https://lynda.com) course
 
 Tab Header 1 | Tab Header 2 | Table Header 3 
 --- | --- | ---
